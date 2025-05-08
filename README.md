@@ -32,7 +32,7 @@
 
 ### 💬 Dev Quote of the Day
 <p align="center">
-  ### "Any fool can use a computer."
+  <h4>"Any fool can use a computer."</h4>
 </p>
 
 ---
