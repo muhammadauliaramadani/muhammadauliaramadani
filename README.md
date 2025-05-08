@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel, Bootstrap, and JavaScript**
 
-- 👨‍💻 All of my projects are available at [github.com/muhammadauliaradani](https://github.com/muhammadauliaramadani)
+- 👨‍💻 All of my projects are available at [github.com/muhammadauliaradani](https://github.com/muhammadauliaradani)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, or Laravel**
 
@@ -31,9 +31,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadauliaramadani&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadauliaradani&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadauliaramadani&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadauliaradani&theme=tokyonight" />
 </p>
 
 ---
@@ -41,4 +41,5 @@
 ### 🌐 Connect with me:
 <p>
   <a href="mailto:auliamuhammad171@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/auliaramadni__" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 </p>
