@@ -2,7 +2,7 @@
 <h3 align="center">💻 Web Developer | 🎬 Chill & Code?</h3>
 
 <p align="center">
-  ![giphy](https://github.com/user-attachments/assets/81c65866-c8fb-4d29-9395-ebb9b34b9880)
+  <img src= ![giphy](https://github.com/user-attachments/assets/81c65866-c8fb-4d29-9395-ebb9b34b9880) />
 </p>
 
 
