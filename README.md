@@ -2,8 +2,8 @@
 <h3 align="center">💻 Web Developer | 🎬 Chill & Code?</h3>
 
 <p align="center">
-<img src=![Dancing Cat](https://media.giphy.com/media/26gR2fW7vU8rpLqqw/giphy.gif)
- width="350" />
+[Dancing Cat](https://media.giphy.com/media/26gR2fW7vU8rpLqqw/giphy.gif)
+ width="350" 
 
 </p>
 
