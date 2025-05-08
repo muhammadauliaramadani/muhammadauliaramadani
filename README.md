@@ -44,9 +44,7 @@
   <img src="https://github.com/user-attachments/assets/11d0b575-2fe2-4dcc-a2a8-813b250ec81b" width="350" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/muhammadauliaramadani/muhammadauliaramadani/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+
 
 ---
 
