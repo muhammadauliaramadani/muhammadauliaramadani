@@ -2,7 +2,7 @@
 <h3 align="center">💻 Web Developer | 🎬 Chill & Code?</h3>
 
 <p align="center">
-<img src=["https://media.giphy.com/media/26gR2fW7vU8rpLqqw/giphy.gif"](https://tenor.com/view/programming-gif-24916992) width="350" />
+<img src="https://media.giphy.com/media/26gR2fW7vU8rpLqqw/giphy.gif"(https://tenor.com/view/programming-gif-24916992) width="350" />
 
 </p>
 
