@@ -18,7 +18,7 @@
 
 ### 🧰 Tech Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,vscode" />
+  <h4>"Any fool can use a computer."</h4>
 </p>
 
 ---
