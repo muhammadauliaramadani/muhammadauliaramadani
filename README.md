@@ -29,11 +29,16 @@
 
 ---
 
-### 📊 GitHub Stats
+---
+
+### 🎉 Fun Zone!
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadauliaramadani&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadauliaramadani&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadauliaramadani&theme=gruvbox&margin-w=15&margin-h=15" alt="github trophies" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
 </p>
 
 ---
