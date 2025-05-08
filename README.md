@@ -2,9 +2,7 @@
 <h3 align="center">💻 Web Developer | 🎬 Chill & Code?</h3>
 
 <p align="center">
-[Dancing Cat](https://media.giphy.com/media/26gR2fW7vU8rpLqqw/giphy.gif)
- width="350" 
-
+  <img src="https://media.giphy.com/media/26gR2fW7vU8rpLqqw/giphy.gif" width="350" />
 </p>
 
 ---
