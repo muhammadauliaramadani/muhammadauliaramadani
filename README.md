@@ -41,7 +41,7 @@
 
 ### 😸 Just for Fun
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350" />
+  <img src="https://github.com/user-attachments/assets/11d0b575-2fe2-4dcc-a2a8-813b250ec81b" width="350" />
 </p>
 
 <p align="center">
