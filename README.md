@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel, Bootstrap, and JavaScript**
 
-- 👨‍💻 All of my projects are available at [github.com/muhammadauliaradani](https://github.com/muhammadauliaradani)
+- 👨‍💻 All of my projects are available at [github.com/muhammadauliaradani](https://github.com/muhammadauliaramadani)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, or Laravel**
 
