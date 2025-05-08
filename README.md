@@ -2,8 +2,7 @@
 <h3 align="center">💻 Web Developer | 🎬 Chill & Code?</h3>
 
 <p align="center">
-<img src="https://media.giphy.com/media/1vYz9eWZlHImJ5CwXh/giphy.gif" width="350" />
-
+<img src="https://media.giphy.com/media/l2SpVeqWwduVr7tW4/giphy.gif" width="350" />
 </p>
 
 ---
