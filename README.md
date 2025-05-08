@@ -1,15 +1,15 @@
 <h1 align="center">✨ Hey there, I'm Muhammad Aulia Ramadani!</h1>
-<h3 align="center">💻 Web Developer | 🎬 Chill & Code?</h3>
+<h3 align="center">💻 Web Developer | 🎬 Chill & Code Guy</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=500&lines=Welcome+to+my+GitHub!;Frontend+Dev+💻;Backend+Dev+🛠️;Laravel+%7C+Bootstrap+%7C+JS;Always+learning+and+vibing+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=500&lines=Welcome+to+my+GitHub!;Frontend+Dev+💻;Backend+Dev+🛠️;Laravel+%7C+Bootstrap+%7C+JS;Always+learning+and+vibing+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🌟 About Me
 - 🎓 Self-taught web developer passionate about clean UI & cool UX  
-- ⚡ Tech Stack: `Laravel`, `Bootstrap`, `JavaScript`, `PHP`  
+- ⚡ Tech Stack: `Laravel`, `Bootstrap`, `JavaScript`, `PHP`, `Next.js`, `MySQL`, `Figma`, `Java`, `Git`  
 - 🍿 I love coding while watching chill movies & series  
 - 📧 Reach me at: [auliamuhammad171@gmail.com](mailto:auliamuhammad171@gmail.com)  
 - 📸 IG: [@auliaramadni__](https://instagram.com/auliaramadni__)  
@@ -19,7 +19,7 @@
 
 ### 🧰 Tech Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,vscode,git,figma,mysql,nextjs,java" />
 </p>
 
 ---
