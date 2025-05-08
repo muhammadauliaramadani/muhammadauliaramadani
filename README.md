@@ -1,59 +1,65 @@
-<h1 align="center">👋 Hey there, I'm Muhammad Aulia Ramadani!</h1>
-<h3 align="center">💻 Web Dev | 🎬 Movie Lover | 🌍 Based in Samarinda</h3>
+<h1 align="center">✨ Hey there, I'm Muhammad Aulia Ramadani!</h1>
+<h3 align="center">💻 Web Developer | 🎬 Movie Enthusiast | 🏡 Based in Samarinda</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub!;Frontend+%F0%9F%92%BB+and+Backend+%F0%9F%94%8C+Dev;Always+learning+Laravel+and+JS!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=500&lines=Welcome+to+my+GitHub!;Frontend+Dev+💻;Backend+Dev+🛠️;Laravel+%7C+Bootstrap+%7C+JS;Movie+lover+%F0%9F%8E%A5" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🤓 About Me
-- 🛠️ Full-time explorer of code, part-time movie binger 🍿  
-- 💡 Learning: `Laravel`, `Bootstrap`, `JavaScript`  
-- 📫 Email me anytime: **auliamuhammad171@gmail.com**  
-- 📸 Instagram: [@auliaramadni__](https://instagram.com/auliaramadni__)  
-- 🎯 Motto: *Code hard, chill harder.*
+### 🌟 About Me
+- 🎓 Self-taught web developer passionate about clean UI & cool UX  
+- ⚡ Tech Stack: `Laravel`, `Bootstrap`, `JavaScript`, `PHP`  
+- 🍿 Love watching movies & geeking out over good code  
+- 📧 Reach me at: [auliamuhammad171@gmail.com](mailto:auliamuhammad171@gmail.com)  
+- 📸 IG: [@auliaramadni__](https://instagram.com/auliaramadni__)  
+- 💭 Favorite Quote: *“Code hard, chill harder.”*
 
 ---
 
 ### 🧰 Tech Toolbox
 <p align="center">
-  <h4>"Any fool can use a computer."</h4>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,vscode,git" />
 </p>
 
 ---
 
 ### 🏆 GitHub Highlights
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadauliaramadani&theme=dracula&row=1&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadauliaramadani&theme=onedark&no-frame=true&column=6" />
 </p>
 
 ---
 
-### 💬 Dev Quote of the Day
+### 📜 Daily Dev Quote
 <p align="center">
-  <h4>"Any fool can use a computer."</h4>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
 
-### 😺 Just for Fun
+### 😸 Just for Fun
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/muhammadauliaramadani/muhammadauliaramadani/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github.com/muhammadauliaramadani/muhammadauliaramadani/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
-### 🔗 Let's Connect!
+### 🔗 Let's Connect
 <p align="center">
-  <a href="mailto:auliamuhammad171@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:auliamuhammad171@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/auliaramadni__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/muhammadauliaramadani"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center"><i>Thanks for stopping by! ⭐ Let's build something awesome together.</i></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:FFD93D&height=100&section=footer&animation=twinkling"/>
+</p>
+
+<p align="center"><i>Thank you for visiting! 🚀 Let’s create something amazing together.</i></p>
