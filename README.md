@@ -13,6 +13,10 @@
 - ⚙️ Tech Stack: `Laravel`, `Bootstrap`, `JavaScript`, `PHP`, `Next.js`, `MySQL`, `Figma`, `Java`, `Git`  
 - 📧 Reach me at: [auliamuhammad171@gmail.com](mailto:auliamuhammad171@gmail.com)  
 - 📸 IG: [@auliaramadni__](https://instagram.com/auliaramadni__)
+- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome!&fontSize=40&animation=twinkling" />
+</p>
+
 
 ---
 
