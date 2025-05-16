@@ -9,15 +9,9 @@
   <img src="https://github.com/user-attachments/assets/0e6771ad-9023-4ad0-878d-d6506bdff9fd" width="350" />
 </p>
 
-### 🌱 Growing Plant — Coding Journey
-
-Watch my coding skills grow day by day!
-
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" alt="cooked" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZpdmpoZ2twZnVzczg3em96NDN0ejdiMjFiNDh2b3h2cDRsaHVodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kKXgdS24Yrm64v0GXO/giphy.gif" width="300" alt="Growing Plant Animation" />
 </p>
-
-*Just like a plant, every line of code helps me grow!*
 
 ---
 
