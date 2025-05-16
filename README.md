@@ -9,10 +9,15 @@
   <img src="https://github.com/user-attachments/assets/0e6771ad-9023-4ad0-878d-d6506bdff9fd" width="350" />
 </p>
 
-### 🎲 Dice Roll (Refresh README untuk “lempar”)
+### 🌱 Growing Plant — Coding Journey
 
-![Dice](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dice-6.svg/120px-Dice-6.svg.png)
+Watch my coding skills grow day by day!  
 
+<p align="center" style="font-size: 2.5rem;">
+  🌱 ➡️ 🌿 ➡️ 🍃 ➡️ 🍀 ➡️ 🌳
+</p>
+
+*Just like a plant, every line of code helps me grow!*
 
 ---
 
