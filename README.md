@@ -9,9 +9,6 @@
   <img src="https://github.com/user-attachments/assets/0e6771ad-9023-4ad0-878d-d6506bdff9fd" width="350" />
 </p>
 
-<p align="center">
-  <img src="https://cardify.vercel.app/api/profile?username=muhammadauliaramadani" />
-</p>
 
 
 ---
