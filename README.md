@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hey there, I'm Muhammad Aulia Ramadani!</h1>
+<h1 align="center"> Hey there, I'm Muhammad Aulia Ramadani!</h1>
 <h3 align="center">💻 Web Developer | 🎬 Chill & Code?</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ---
 
-### 🌟 About Me
+###  About Me
 - 🎓 Self-taught web developer passionate about clean UI & cool UX  
 - ⚡ Tech Stack: `Laravel`, `Bootstrap`, `JavaScript`, `PHP`, `Next.js`, `MySQL`, `Figma`, `Java`, `Git`    
 - 📧 Reach me at: [auliamuhammad171@gmail.com](mailto:auliamuhammad171@gmail.com)  
@@ -30,14 +30,14 @@
 
 ---
 
-### 📜 Daily Dev Quote
+###  Daily Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
 
-### 😸 Just for Fun
+###  Just for Fun
 <p align="center">
   <img src="https://github.com/user-attachments/assets/11d0b575-2fe2-4dcc-a2a8-813b250ec81b" width="350" />
 </p>
