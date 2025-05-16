@@ -9,9 +9,12 @@
   <img src="https://github.com/user-attachments/assets/0e6771ad-9023-4ad0-878d-d6506bdff9fd" width="350" />
 </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/muhammadauliaramadani/count.svg" />
-</p>
+### 🧩 Dev Riddle
+
+> I am a five-letter word and I am feared by developers.  
+> What am I?  
+
+*Hint: It's related to code errors.*
 
 
 ---
