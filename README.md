@@ -9,10 +9,8 @@
   <img src="https://github.com/user-attachments/assets/0e6771ad-9023-4ad0-878d-d6506bdff9fd" width="350" />
 </p>
 
-### 🎧 Now Playing on Spotify
-
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31fbkncoeex53sbk2xhi7dawyipi&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true" />
+  <img src="https://profile-counter.glitch.me/muhammadauliaramadani/count.svg" />
 </p>
 
 
