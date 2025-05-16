@@ -14,7 +14,7 @@
 Watch my coding skills grow day by day!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" alt="Growing Plant Animation" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" alt="cooked" />
 </p>
 
 *Just like a plant, every line of code helps me grow!*
