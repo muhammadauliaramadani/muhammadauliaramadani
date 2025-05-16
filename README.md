@@ -10,11 +10,9 @@
 
 ### 🌟 About Me
 - 🎓 Self-taught web developer passionate about clean UI & cool UX  
-- ⚡ Tech Stack: `Laravel`, `Bootstrap`, `JavaScript`, `PHP`, `Next.js`, `MySQL`, `Figma`, `Java`, `Git`  
-- 🍿 I love coding while watching chill movies & series  
+- ⚡ Tech Stack: `Laravel`, `Bootstrap`, `JavaScript`, `PHP`, `Next.js`, `MySQL`, `Figma`, `Java`, `Git`    
 - 📧 Reach me at: [auliamuhammad171@gmail.com](mailto:auliamuhammad171@gmail.com)  
 - 📸 IG: [@auliaramadni__](https://instagram.com/auliaramadni__)  
-- 💭 Favorite Quote: *“Code hard, chill harder.”*
 
 ---
 
