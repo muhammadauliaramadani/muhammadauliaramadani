@@ -11,10 +11,10 @@
 
 ### 🌱 Growing Plant — Coding Journey
 
-Watch my coding skills grow day by day!  
+Watch my coding skills grow day by day!
 
-<p align="center" style="font-size: 2.5rem;">
-  🌱 ➡️ 🌿 ➡️ 🍃 ➡️ 🍀 ➡️ 🌳
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" alt="Growing Plant Animation" />
 </p>
 
 *Just like a plant, every line of code helps me grow!*
