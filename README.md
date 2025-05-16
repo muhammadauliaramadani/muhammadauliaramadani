@@ -9,12 +9,9 @@
   <img src="https://github.com/user-attachments/assets/0e6771ad-9023-4ad0-878d-d6506bdff9fd" width="350" />
 </p>
 
-### 🧩 Dev Riddle
+### 🎲 Dice Roll (Refresh README untuk “lempar”)
 
-> I am a five-letter word and I am feared by developers.  
-> What am I?  
-
-*Hint: It's related to code errors.*
+![Dice](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dice-6.svg/120px-Dice-6.svg.png)
 
 
 ---
