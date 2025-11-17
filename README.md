@@ -23,7 +23,7 @@
 ### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,vscode,git,figma,mysql,nextjs,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,vscode,git,figma,mysql,nextjs,java,nodejs,react" />
 </p>
 
 ---
