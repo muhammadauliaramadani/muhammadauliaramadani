@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Muhammad%20Aulia%20Ramadani&fontSize=38&fontAlignY=35" />
 </p>
 
-<h2 align="center">Software Engineer Intern | Software Engineering Student</h2>
+<h2 align="center"> Software Engineering Student</h2>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0e6771ad-9023-4ad0-878d-d6506bdff9fd" width="250" alt="Profile Image" />
@@ -42,48 +42,6 @@ Software Engineering student with an interest in web development using Laravel, 
 - Git & GitHub
 - Java
 - Kotlin
-
----
-
-## 🚀 Featured Projects
-
-### Website Program Studi (Website-Prodi-PHH)
-
-**Laravel • PHP • MySQL • Blade • Tailwind CSS**
-
-Academic website developed using Laravel and MySQL for managing and publishing study program information.
-
-🔗 Repository: *Add your repository link here*
-
----
-
-### JavaScript CRUD Application
-
-**JavaScript • HTML • CSS**
-
-Simple CRUD application built to learn data management and front-end development concepts.
-
-🔗 Repository: *Add your repository link here*
-
----
-
-### Login Authentication Practice
-
-**JavaScript**
-
-Simple authentication project created to understand login flow and user validation.
-
-🔗 Repository: *Add your repository link here*
-
----
-
-### React Learning Project
-
-**React • JavaScript**
-
-React-based application built to learn components, props, and state management.
-
-🔗 Repository: *Add your repository link here*
 
 ---
 
